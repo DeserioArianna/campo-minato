@@ -11,9 +11,7 @@ Un piccolo **gioco del Campo Minato** realizzato in **HTML, CSS e JavaScript van
    - `index.html`
    - `style.css`
    - `script.js`
-3. Apri `index.html` in un browser moderno (Chrome, Firefox, Edge, ecc.).
-
-👉 Non servono comandi da terminale o installazioni: è un progetto completamente statico.
+.
 
 ---
 
